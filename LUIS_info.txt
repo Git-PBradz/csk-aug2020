@@ -1,2 +1,0 @@
-Endpoint URL: https://csc-luis.cognitiveservices.azure.com/
-
