@@ -1,2 +1,9 @@
 Endpoint URL: https://csc-luis.cognitiveservices.azure.com/
 
+LUISspeech module
+key 1
+6249dd14beb241748c708324b32282d9
+Endpoint
+https://cscluisspeech-authoring.cognitiveservices.azure.com/
+Location
+westus
